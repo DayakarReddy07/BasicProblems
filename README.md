@@ -1,2 +1,2 @@
 # BasicProblems
-These are the basic problems for the interviews and coding interviews
+These are the basic problems for the interviews and coding assessments.
